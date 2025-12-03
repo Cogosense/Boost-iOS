@@ -2,9 +2,9 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 import PackageDescription
 
-let version = "1.81.2"
+let version = "1.89.0"
 let moduleName = "boost"
-let checksum = "f0cd644ee12f1dd359300830b50442396b3d518e7e3a23a409c9128669003d2d"
+let checksum = "2ea19b24fdba06dbdded0228eeb011d599492b9a3cb1466b63b710fe8c31608e"
 
 let package = Package(
     name: moduleName,
