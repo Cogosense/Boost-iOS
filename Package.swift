@@ -20,7 +20,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: moduleName,
-            url: "https://github.com/Cogosense/iOSBoostFramework/releases/download/\(version)/\(moduleName).xcframework.zip",
+            url: "https://github.com/Cogosense/Boost-iOS/releases/download/\(version)/\(moduleName).xcframework.zip",
             checksum: checksum
         )
     ]
